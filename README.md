@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mizaagi
 - 👀 I’m interested in AI and game creation.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on nothing currently.
+- 📫 How to reach me - my discord is itzfakeme.
 
 <!---
 mizaagi/mizaagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
